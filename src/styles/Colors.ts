@@ -6,6 +6,7 @@ export const myColors = {
     btnDark: '#2E2F38',
     gray: '#747477',
     black: '#000000',
+    orange: '#EF6C00',
     white: '#FFFFFF', 
     result: '#46D5B2',
 }

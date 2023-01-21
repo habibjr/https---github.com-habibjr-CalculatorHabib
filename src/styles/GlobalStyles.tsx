@@ -7,7 +7,7 @@ export const Styles = StyleSheet.create({
         width: 72,
         height: 72,
         borderRadius: 24,
-        backgroundColor: myColors.blue,
+        backgroundColor: myColors.black,
         justifyContent: "center",
         alignItems: "center",
         margin: 8,
@@ -19,7 +19,7 @@ export const Styles = StyleSheet.create({
         backgroundColor: myColors.btnDark,
         justifyContent: "center",
         alignItems: "center",
-        margin: 8,
+        margin: 8, 
     },
     btnLight: {
         width: 72,
@@ -41,7 +41,7 @@ export const Styles = StyleSheet.create({
     },
     smallTextLight: {
         fontSize: 32,
-        color: myColors.white,
+        color: myColors.orange,
     },
     smallTextDark: {
         fontSize: 32,
