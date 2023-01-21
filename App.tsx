@@ -5,7 +5,7 @@ import { ThemeContext } from './src/context/ThemeContext';
 import MyKeyboard from './src/components/MyKeyboard';
 
 
-
+// sudo yarn start
 export default function App() {
   const [theme, setTheme] = useState('light');
   return (
